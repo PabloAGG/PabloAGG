@@ -1,0 +1,444 @@
+.Footer{
+    font-style: oblique;
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 90px;
+    background-color: #022521;
+    color: #022521;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 1000; 
+}
+.contenedor_principal {
+    display: flex; /* Activa Flexbox */
+    justify-content: space-between; /* Espacio entre los dos contenedores */
+    align-items: flex-start; /* Alinea los contenedores al inicio verticalmente */
+    margin: 20px;
+}
+
+.perfilUs {
+    left: 600px;
+    color: aliceblue;
+    font-family: cursive;
+    font-style: oblique;
+    text-align: left;
+    border: 1px solid #022521;
+    padding: 15px;
+    background-color: #022521;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px black;
+    max-width: 40%; /* Ajusta el ancho relativo */
+}
+
+.contenedor_publi {
+    left: 200px;
+    color: gray;
+    font-family: fantasy;
+    background-color: #022521;
+    border-radius: 10px;
+    width: 50%; /* Ajusta el ancho relativo */
+    height: auto;
+    padding: 20px;
+    box-shadow: 0 2px 5px black;
+}
+
+.cuerpo {
+    background-color: #ffedaf;
+    overflow-y: auto;
+}
+
+/* Estilo para la barra superior */
+.web {
+    font-size:x-large;
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #022521;
+    color: #021b1a;
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 1000; 
+}
+/* Estilo para el título en la barra */
+#titulo {
+    color: aliceblue;
+    text-align: center;
+}
+
+.contenedor_login {
+    justify-content: center;
+    color: aliceblue;
+    font-family:fantasy;
+    font-size: x-large;
+    font-style:oblique;
+    text-align:center;
+    margin-top: 80px; 
+    display: flex;
+    border: 1px solid #022521;
+    padding: 20px;
+    background-color: #022521;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px black;
+    z-index: 900; 
+    max-width: 600px; 
+    margin: 20px auto; 
+}
+
+#datos{
+
+    color: aliceblue;
+    text-align: left;
+}
+.contenedor_regus{
+    justify-content:space-evenly;
+    color: aliceblue;
+    font-family:cursive;
+    font-style:oblique;
+    text-align:center;
+    margin-top: 100px; 
+    display: flex;
+    border: 1px solid #022521;
+    padding: 15px;
+    background-color: #022521;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px black;
+    z-index: 900; 
+    max-width: 600px; 
+    margin: 20px auto; 
+}
+.btnReg {
+    padding: 0px 5px;
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .btnReg:hover {
+    background-color: gold;
+  }
+  
+  .btnReg:active {
+    background-color: yellow;
+  }
+
+  .btnback {
+    padding: 16px 25px;
+    background-color: goldenrod;
+    color: white;
+    border: none;  
+     border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .btnback:hover {
+    background-color: gold;
+  }
+  
+  .btnback:active {
+    background-color: yellow;
+  }
+
+  .btnlogin {
+    padding: 20px 30px;
+    background-color: goldenrod;
+    color: white;
+    border: none;  
+     border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .btnlogin:hover {
+    background-color: gold;
+  }
+  
+  .btnlogin:active {
+    background-color: yellow;
+  }
+.regUs{
+    color:aliceblue;
+    font-family:cursive;
+    font-size: medium;
+}
+.back{
+    color:aliceblue;
+    font-family:fantasy;
+    font-size: medium;
+}
+#fusuario{
+    border: 2px solid #ccc; 
+    border-radius: 15px; 
+    padding: 10px 15px; 
+    font-size: 16px; 
+    outline: none; 
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+#fcontra{
+    border: 2px solid #ccc; 
+    border-radius: 15px; 
+    padding: 10px 15px; 
+    font-size: 16px; 
+    outline: none; 
+    margin-bottom:30px; 
+    transition: border-color 0.3s, box-shadow 0.3s; 
+}
+
+.inputReg{
+    border: 2px solid #ccc; 
+    border-radius: 15px; 
+    padding: 10px 15px; 
+    font-size: 16px; 
+    outline: none; 
+    margin-bottom:30px; 
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.contenedor_FormReg{
+margin-top: 50px;
+margin-bottom: 50px;
+    justify-content: center;
+    color: aliceblue;
+    font-family:fantasy;
+    font-size: x-large;
+    font-style:oblique;
+    text-align:center;
+    margin-top: 8%; 
+    display: flex;
+    border: 1px solid #022521;
+    padding: 20px;
+    background-color: #022521;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px black;
+    z-index: 900; 
+    max-width: 600px; 
+    margin: 40px auto; 
+
+}
+#fimg{
+    margin-bottom:30px; 
+}
+#fcorreo{
+    margin-bottom:30px; 
+}
+#fpass{
+    margin-bottom:30px; 
+}
+#fnac{
+    margin-bottom:10px; 
+}
+
+.nav-link{
+  color: aliceblue;
+  font-size: medium;
+  font-family: fantasy;
+}
+.btnBarr { 
+  border: none; 
+  color:green; 
+  padding: 0px 1px; 
+  cursor: pointer; 
+  border-radius: 5px; 
+  background-color: white; 
+  border: 2px solid #e7e7e7;} 
+
+.btnBarr:hover {background: #ddd; color:grey;}
+
+.BarrBusq{
+  border: 2px solid #ccc; 
+  border-radius: 15px; 
+  padding: 10px 15px; 
+  font-size: 14px; 
+  outline: none; 
+  margin-bottom:0px; 
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.img-circular {
+  width: 40px; 
+  height: 40px; 
+  border-radius: 50%; 
+  object-fit: cover; 
+  margin-left: 150px;
+  margin-top: -90px;
+}
+
+.img-cirUs{
+  width: 100px; 
+  height: 100px; 
+  border-radius: 50%; 
+  object-fit: cover; 
+}
+
+.identificador{
+  position:static;
+  color: aliceblue;
+  font-size: medium;
+  font-family: cursive;
+  padding: 100px 200px 50px;
+ 
+}
+.identificador2{
+  position:static;
+  color: aliceblue;
+  font-size: medium;
+  font-family: cursive;
+  padding: 100px 1000px 50px;
+}
+
+.barrPrin{
+  padding: 30px;
+}
+
+ul.pagination {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+  color: black;
+  float: left;
+  padding: 9px 18px;
+  text-decoration: none;
+}
+
+ul.pagination li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+ul.pagination li a.active:hover {background-color: #397f3b;}
+
+ul.pagination li a:hover:not(.active) {background-color: #ddd;}
+
+.Paginas{
+
+  position: fixed;
+  bottom: 100px;
+  left: 580px;
+  display: flex;
+
+  z-index: 1300;
+}
+.Dashb {
+color: black;
+  background-color: rgb(174, 172, 172);
+  position: absolute;
+  height: auto;
+  width:700px;
+  top: 80px;
+  left: 600px;
+  justify-content: center;
+  font-family: fantasy;
+  text-align: center;
+  display: flex;
+  border-radius: 20px;
+  z-index: 900;
+}
+
+
+.card{
+
+  position: fixed;
+  top: 90px;
+  left: -40%;
+}
+
+.creaPubli{
+  padding: 10px 20px;
+  position: fixed;
+  background-color: goldenrod;
+  color: white;
+  border: none;  
+   border-radius: 10px;
+  cursor: pointer;
+  z-index: 800;
+}
+
+.EspPub{
+  justify-content: center;
+  color: aliceblue;
+  font-family:fantasy;
+  font-size: x-large;
+  font-style:oblique;
+  text-align:center;
+  margin-top: 80px; 
+  display: flex;
+  border: 1px solid #022521;
+  padding: 20px;
+  background-color: #c4c4c4;
+  border-radius: 20px;
+  box-shadow: 0 2px 5px black;
+  z-index: 900; 
+  max-width: 600px; 
+  margin: 70px auto; 
+}
+.cancel{
+  color: black;
+}
+
+
+.btnMod{
+  padding: 0px 2px;
+  background-color: goldenrod;
+  color: white;
+  border: none;  
+   border-radius: 10px;
+  cursor: pointer;
+
+}
+.btnMod:hover {
+  background-color: gold;
+}
+
+.btnMod:active {
+  background-color: yellow;
+}
+
+.edi{
+  color: aliceblue;
+}
+
+
+.BusqAv{
+ 
+  justify-content: center;     
+  align-items: center;  
+  color: gray;
+  font-family: fantasy;
+  background-color:#022521 ;
+  border-radius: 10px;
+  width: 500px;
+  height: auto;
+  padding: 20px;   
+  position: absolute;         
+ margin: 80px auto;
+}
+
+.Dashbusq{
+  color: black;
+  background-color: rgb(174, 172, 172);
+  position: absolute;
+  height: auto;
+  width:700px;
+  top: 80px;
+  left: 600px;
+  justify-content: center;
+  font-family: fantasy;
+  text-align: center;
+  display: flex;
+  border-radius: 20px;
+  z-index: 900;
+}

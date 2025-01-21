@@ -1,0 +1,555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|c:\\users\\migue\\downloads\\nominasmad(validaciones)\\nominasmad\\nominasmad\\proyecto_mad\\proyecto_mad\\proyecto_mad\\ventanas\\formcalculogral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\formcalculogral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\formcalculogral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\formcalculogral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\dao\\empleadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\dao\\empleadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\formincidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\formincidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\formincidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\formincidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\bdconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\bdconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\formpasadosvw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\formpasadosvw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\formpasadosvw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\formpasadosvw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\entidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\entidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\entidad\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\entidad\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\dao\\periodosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\dao\\periodosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\dao\\puestodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\dao\\puestodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\entidad\\periodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\entidad\\periodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\entidad\\puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\entidad\\puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\entidad\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\entidad\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\dao\\percepcionesdeduccionesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\dao\\percepcionesdeduccionesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\reportegeneralnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\reportegeneralnomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\reporteheadcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\reporteheadcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form11.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form11.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\dao\\departamentodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\dao\\departamentodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\entidad\\pyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\entidad\\pyd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\entidad\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\entidad\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\proyecto_mad\\ventanas\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05F1DE3-11DB-4835-9EE6-797B57B146C9}|PROYECTO_MAD\\PROYECTO_MAD.csproj|solutionrelative:proyecto_mad\\ventanas\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BDConexion.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\BDConexion.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\BDConexion.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\BDConexion.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\BDConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:43:20.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form1.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form1.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA2wEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:14:12.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCalculoGral.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormCalculoGral.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\FormCalculoGral.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormCalculoGral.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\FormCalculoGral.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:13:00.528Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPasadosVW.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormPasadosVW.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\FormPasadosVW.cs",
+              "ToolTip": "C:\\Users\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormPasadosVW.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormPasadosVW.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:23:27.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormPasadosVW.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormPasadosVW.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\FormPasadosVW.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormPasadosVW.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\FormPasadosVW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:35:39.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FORMINCIDENCIAS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FORMINCIDENCIAS.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\FORMINCIDENCIAS.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FORMINCIDENCIAS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\FORMINCIDENCIAS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:53:37.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FORMINCIDENCIAS.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FORMINCIDENCIAS.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\FORMINCIDENCIAS.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FORMINCIDENCIAS.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\FORMINCIDENCIAS.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwDAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:57:17.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form2.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form2.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:12:09.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form2.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form2.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form2.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\Form2.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAB8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:12:58.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCalculoGral.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormCalculoGral.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\FormCalculoGral.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\FormCalculoGral.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\FormCalculoGral.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:50:57.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form1.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form1.cs",
+              "ToolTip": "C:\\Users\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:11:52.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form5.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form5.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form5.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\Form5.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:14:32.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form5.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form5.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form5.cs",
+              "ToolTip": "C:\\Users\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form5.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form5.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:14:43.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\EmpleadoDAO.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\DAO\\EmpleadoDAO.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\EmpleadoDAO.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\DAO\\EmpleadoDAO.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:24:39.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form12.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form12.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form12.cs",
+              "ToolTip": "C:\\Users\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form12.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form12.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:12:07.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form11.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form11.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form11.cs",
+              "ToolTip": "C:\\Users\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form11.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form11.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:12:06.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form12.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form12.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form12.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\Form12.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:24:22.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Entidad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Usuario.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Entidad\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:24:43.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Empleado.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Entidad\\Empleado.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Empleado.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Entidad\\Empleado.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:00:28.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Puesto.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Puesto.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Entidad\\Puesto.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Puesto.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Entidad\\Puesto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:59:32.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PeriodosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\PeriodosDAO.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\DAO\\PeriodosDAO.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\PeriodosDAO.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\DAO\\PeriodosDAO.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:42:54.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PuestoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\PuestoDAO.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\DAO\\PuestoDAO.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\PuestoDAO.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\DAO\\PuestoDAO.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:59:41.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Periodo.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Periodo.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Entidad\\Periodo.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Periodo.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Entidad\\Periodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:46:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Departamento.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Entidad\\Departamento.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Departamento.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Entidad\\Departamento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:57:53.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PercepcionesDeduccionesDAO.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\PercepcionesDeduccionesDAO.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\DAO\\PercepcionesDeduccionesDAO.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\PercepcionesDeduccionesDAO.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\DAO\\PercepcionesDeduccionesDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:06:59.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReporteGeneralNomina.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\ReporteGeneralNomina.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\ReporteGeneralNomina.cs",
+              "ToolTip": "C:\\Users\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\ReporteGeneralNomina.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\ReporteGeneralNomina.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:28:04.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReporteHeadcounter.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\ReporteHeadcounter.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\ReporteHeadcounter.cs",
+              "ToolTip": "C:\\Users\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\ReporteHeadcounter.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\ReporteHeadcounter.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:31:06.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form4.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form4.cs",
+              "ToolTip": "C:\\Users\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\ElJoaker\\Downloads\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:14:21.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form11.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form11.Designer.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form11.Designer.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form11.Designer.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\Form11.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:45:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartamentoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\DepartamentoDAO.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\DAO\\DepartamentoDAO.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\DAO\\DepartamentoDAO.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\DAO\\DepartamentoDAO.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAwHsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:25:35.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PyD.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\PyD.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Entidad\\PyD.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\PyD.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Entidad\\PyD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:59:19.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Nomina.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Nomina.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Entidad\\Nomina.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Entidad\\Nomina.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Entidad\\Nomina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:00:57.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form4.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form4.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form4.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\Form4.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwI8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:16:51.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "PROYECTO_MAD\\Ventanas\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\NOMINASMAD(VALIDACIONES)\\NOMINASMAD\\NOMINASMAD\\PROYECTO_MAD\\PROYECTO_MAD\\PROYECTO_MAD\\Ventanas\\Form4.Designer.cs",
+              "RelativeToolTip": "PROYECTO_MAD\\Ventanas\\Form4.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAIBJwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:07:59.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

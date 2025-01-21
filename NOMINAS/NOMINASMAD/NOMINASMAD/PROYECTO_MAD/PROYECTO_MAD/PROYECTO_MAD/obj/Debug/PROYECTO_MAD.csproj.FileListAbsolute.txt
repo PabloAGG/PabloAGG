@@ -1,0 +1,314 @@
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Form1.resources
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.Cache
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\Ivan Cantu\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Form1.resources
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\Ivan Cantu\Desktop\WORKSHOP-MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form2_RegistroEmpleados.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form10_ReportesNómina.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form3_DatosEmpresa.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form4_RegistroDepartamentos.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form5_RegistroPuestos.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form6_PercepcionesDeducciones.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form7_CalculoNomina.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form8_ReporteGeneralNomina.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form9_ReporteHeadcounter.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form10_ReportesNómina.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form2_RegistroEmpleados.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form3_DatosEmpresa.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form4_RegistroDepartamentos.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form5_RegistroPuestos.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form6_PercepcionesDeducciones.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form7_CalculoNomina.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form8_ReporteGeneralNomina.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form9_ReporteHeadcounter.resources
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\Pc\Downloads\PIA_MAD\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form1.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form1.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form10_ReportesNómina.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form2_RegistroEmpleados.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form3_DatosEmpresa.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form4_RegistroDepartamentos.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form5_RegistroPuestos.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form6_PercepcionesDeducciones.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form7_CalculoNomina.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form8_ReporteGeneralNomina.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form9_ReporteHeadcounter.resources
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+E:\7to Semestre\Datos Administrados\NominaBD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form1.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form_InicioSesion.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.dll
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.xml
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CopyComplete
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteGeneralNomina.resources
+C:\Users\drmar\OneDrive\Desktop\PLANTILLA_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteHeadcounter.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.dll
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.xml
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form1.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form10_ReportesNómina.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form_InicioSesion.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form2_RegistroEmpleados.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form3_DatosEmpresa.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form4_RegistroDepartamentos.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form5_RegistroPuestos.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form6_PercepcionesDeducciones.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form7_CalculoNomina.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form8_ReporteGeneralNomina.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form9_ReporteHeadcounter.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteGeneralNomina.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteHeadcounter.resources
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CopyComplete
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\drmar\OneDrive\Desktop\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.dll
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.xml
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form1.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form10_ReportesNómina.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form_InicioSesion.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form2_RegistroEmpleados.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form3_DatosEmpresa.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form4_RegistroDepartamentos.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form5_RegistroPuestos.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form6_PercepcionesDeducciones.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form7_CalculoNomina.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form8_ReporteGeneralNomina.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form9_ReporteHeadcounter.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteGeneralNomina.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteHeadcounter.resources
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO.CEAA3CD9.Up2Date
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\migue\Documents\TAREAS PABLO\NominaBD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form12.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.dll
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.xml
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form1.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form10_ReportesNómina.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form_InicioSesion.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form12.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form2_RegistroEmpleados.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form3_DatosEmpresa.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form4_RegistroDepartamentos.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form5_RegistroPuestos.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form6_PercepcionesDeducciones.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form7_CalculoNomina.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form8_ReporteGeneralNomina.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form9_ReporteHeadcounter.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteGeneralNomina.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteHeadcounter.resources
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO.CEAA3CD9.Up2Date
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\migue\Documents\TAREAS PABLO\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form1.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form_InicioSesion.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form12.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form2_RegistroEmpleados.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form4_RegistroDepartamentos.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form5_RegistroPuestos.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteGeneralNomina.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteHeadcounter.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO.CEAA3CD9.Up2Date
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Quality.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.System.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Buffers.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Memory.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.ValueTuple.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Charting.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Quality.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.System.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.System.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Buffers.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Memory.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.ValueTuple.xml
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.FormCalculoGral.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.FORMINCIDENCIAS.resources
+C:\Users\ElJoaker\Downloads\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.FormPasadosVW.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe.config
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.exe
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PROYECTO_MAD.pdb
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Charting.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Quality.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.System.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Buffers.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Memory.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.ValueTuple.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\itextsharp.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.pdb
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Charting.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Quality.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.System.pdb
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.System.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Buffers.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Memory.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\System.ValueTuple.xml
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.AssemblyReference.cache
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Properties.Resources.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form1.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form_InicioSesion.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form12.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form2_RegistroEmpleados.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form4_RegistroDepartamentos.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.Form5_RegistroPuestos.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.FormCalculoGral.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.FORMINCIDENCIAS.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.FormPasadosVW.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteGeneralNomina.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.Ventanas.ReporteHeadcounter.resources
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO.CEAA3CD9.Up2Date
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.exe
+C:\Users\migue\Downloads\NOMINASMAD(VALIDACIONES)\NOMINASMAD\NOMINASMAD\PROYECTO_MAD\PROYECTO_MAD\PROYECTO_MAD\obj\Debug\PROYECTO_MAD.pdb
